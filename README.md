@@ -12,7 +12,7 @@ Seaborn | To plot the graphical display of the correlations
 Matplotlib | To plot the graphical display of the correlations
 
 ## Process
-![alt text](https://github.com/smvishnu/Movies-Data-Correlation-Python-Project/blob/main/movies_data_corr1.png "Movies data correlation")
+![alt text](https://github.com/smvishnu/Movies-Data-Correlation-Python-Project/blob/main/movies_data_corr2.png "Movies data correlation")
 
 1. Read the dataset from 'movies.csv' file using pandas.read_csv() method. The method retuns an pandas DataFrame with all the values read from csv.
 2. DATA CLEANING - Check for any missing data (or null or empty data) in each column and calculate the mean of the empty values. In case a column is completely empty then the result will be 1.0% and that column can be ignored in the further processes. Mean values are calculated using numpy.mean() method
